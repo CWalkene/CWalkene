@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+CWalkene.;A+Minecraft+Server+Owner+and+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=000000&width=435&lines=Hi%F0%9F%91%8B+I+am+CWalkene.;A+Minecraft+Server+Owner+%26+Developer;An+open-source+contributor.)](https://git.io/typing-svg)
