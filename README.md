@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&pause=1000&color=39C5BB&width=435&lines=Hi%F0%9F%91%8B+I+am+CWalkene.;Owner+of+WindyRiver+(Minecraft+Server);An+open-source+contributor.;A+work-in-progress+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&pause=1000&color=39C5BB&width=435&lines=Hi%F0%9F%91%8B+I+am+CWalkene.;Owner+of+WindyRiver+(Minecraft+Server).;An+open-source+contributor.;A+work-in-progress+developer.)](https://git.io/typing-svg)
