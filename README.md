@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C5BB&width=500&height=30&lines=Hey+I'm+CWalkene.;An+Open-Source+Contributor.;A+Learn-In-Progress+Developer.)](https://www.windyriver.top/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C5BB&width=500&height=30&lines=Hey,+I'm+CWalkene.;An+Open-Source+Contributor.;A+Learn-In-Progress+Developer.)]
